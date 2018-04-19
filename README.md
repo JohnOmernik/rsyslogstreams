@@ -4,6 +4,7 @@
 
 Steps
 - First copy env.list.template to env.list
+- Ensure you have a valid ticket in /tmp/maprticket for your setup if using a secure cluster
 - Open env.list and put in your information for things
 - run mkstream.sh to call maprcli to make the stream for this test
 - run build.sh to build the docker container
