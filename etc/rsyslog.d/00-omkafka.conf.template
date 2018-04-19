@@ -1,0 +1,5 @@
+$ModLoad omkafka
+action(type="omkafka" topic="MAPR_RSYSLOG_STREAM_LOCATION:MAPR_RSYSLOG_TOPIC" broker=[""])
+
+
+
